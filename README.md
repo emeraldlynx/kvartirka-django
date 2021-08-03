@@ -84,7 +84,7 @@ response:<br>
 
 <a id="post-get" name="post-get">#</a> **View post info** [<span style=color:#00D4FF>GET</span>]<br>
 
-### Route: `/api/post/1/{id}`<br><br>
+### Route: `/api/post/{id}`<br><br>
 
 response:<br>
 ```json
